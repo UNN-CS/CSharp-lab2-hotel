@@ -1,0 +1,20 @@
+c:\users\user\source\repos\lab2 mayorov n.e\lab2 mayorov n.e\bin\Debug\lab2 mayorov n.e.exe.config
+c:\users\user\source\repos\lab2 mayorov n.e\lab2 mayorov n.e\bin\Debug\lab2 mayorov n.e.exe
+c:\users\user\source\repos\lab2 mayorov n.e\lab2 mayorov n.e\bin\Debug\lab2 mayorov n.e.pdb
+c:\users\user\source\repos\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2 mayorov n.e.csprojAssemblyReference.cache
+c:\users\user\source\repos\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2_mayorov_n.e.Properties.Resources.resources
+c:\users\user\source\repos\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2 mayorov n.e.csproj.GenerateResource.cache
+c:\users\user\source\repos\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2 mayorov n.e.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2 mayorov n.e.exe
+c:\users\user\source\repos\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2 mayorov n.e.pdb
+C:\Users\user\source\repos\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2_mayorov_n.e.Form1.resources
+C:\Users\user\Desktop\src\lab2 mayorov n.e\lab2 mayorov n.e\bin\Debug\lab2 mayorov n.e.exe.config
+C:\Users\user\Desktop\src\lab2 mayorov n.e\lab2 mayorov n.e\bin\Debug\lab2 mayorov n.e.exe
+C:\Users\user\Desktop\src\lab2 mayorov n.e\lab2 mayorov n.e\bin\Debug\lab2 mayorov n.e.pdb
+C:\Users\user\Desktop\src\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2 mayorov n.e.csprojAssemblyReference.cache
+C:\Users\user\Desktop\src\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2_mayorov_n.e.Form1.resources
+C:\Users\user\Desktop\src\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2_mayorov_n.e.Properties.Resources.resources
+C:\Users\user\Desktop\src\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2 mayorov n.e.csproj.GenerateResource.cache
+C:\Users\user\Desktop\src\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2 mayorov n.e.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\src\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2 mayorov n.e.exe
+C:\Users\user\Desktop\src\lab2 mayorov n.e\lab2 mayorov n.e\obj\Debug\lab2 mayorov n.e.pdb

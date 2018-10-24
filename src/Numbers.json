@@ -1,0 +1,62 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ],
+
+  "numbers": [
+    {
+      "Type": "Econom",
+      "Price": 5000
+    },
+    {
+      "Type": "Normal",
+      "Price": 7000
+    },
+    {
+      "Type": "VIP",
+      "Price": 10000
+    },
+    null
+  ],
+
+  "services": [
+    {
+      "Type": "Swiming Pool",
+      "Price": 500
+    },
+    {
+      "Type": "Spa",
+      "Price": 200
+    },
+    {
+      "Type": "Fitness Center",
+      "Price": 1000
+    },
+    {
+      "Type": "Breakfast",
+      "Price": 200
+    },
+    {
+      "Type": "Dinner",
+      "Price": 500
+    },
+    {
+      "Type": "Evening meal",
+      "Price": 300
+    },
+    null
+  ]
+
+}
+
+
+
+

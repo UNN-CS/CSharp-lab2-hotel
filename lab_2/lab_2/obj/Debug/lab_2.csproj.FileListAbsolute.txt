@@ -1,0 +1,9 @@
+C:\Users\Тетя\Documents\GitHub\CSharp-lab2-hotel\lab_2\lab_2\bin\Debug\lab_2.exe.config
+C:\Users\Тетя\Documents\GitHub\CSharp-lab2-hotel\lab_2\lab_2\bin\Debug\lab_2.exe
+C:\Users\Тетя\Documents\GitHub\CSharp-lab2-hotel\lab_2\lab_2\bin\Debug\lab_2.pdb
+C:\Users\Тетя\Documents\GitHub\CSharp-lab2-hotel\lab_2\lab_2\obj\Debug\lab_2.csprojResolveAssemblyReference.cache
+C:\Users\Тетя\Documents\GitHub\CSharp-lab2-hotel\lab_2\lab_2\obj\Debug\lab_2.Form1.resources
+C:\Users\Тетя\Documents\GitHub\CSharp-lab2-hotel\lab_2\lab_2\obj\Debug\lab_2.Properties.Resources.resources
+C:\Users\Тетя\Documents\GitHub\CSharp-lab2-hotel\lab_2\lab_2\obj\Debug\lab_2.csproj.GenerateResource.Cache
+C:\Users\Тетя\Documents\GitHub\CSharp-lab2-hotel\lab_2\lab_2\obj\Debug\lab_2.exe
+C:\Users\Тетя\Documents\GitHub\CSharp-lab2-hotel\lab_2\lab_2\obj\Debug\lab_2.pdb

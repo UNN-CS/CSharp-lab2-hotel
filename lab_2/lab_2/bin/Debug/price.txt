@@ -1,0 +1,4 @@
+day : 1500
+safe : 200
+holod : 75
+bar : 300

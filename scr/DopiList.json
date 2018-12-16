@@ -1,0 +1,21 @@
+{
+  "Uslugi":
+  [
+    {
+      "name": "wifi [200]",
+      "price": "200"
+    },
+    {
+      "name": "uborka [500]",
+      "price": "500"
+    },
+    {
+      "name": "minibar [3000]",
+      "price": "3000"
+    },
+    {
+      "name": "seif [700]",
+      "price": "700"
+    }
+  ]
+}

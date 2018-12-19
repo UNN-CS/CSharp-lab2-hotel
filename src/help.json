@@ -1,0 +1,32 @@
+{
+  "nomera": [
+    {
+      "Type": "Budget - 1000",
+      "Price": 1000
+    },
+    {
+      "Type": "Basic - 2000",
+      "Price": 2000
+    },
+    {
+      "Type": "VIP - 3000",
+      "Price": 3000
+    },
+    null
+  ],
+  "uslug": [
+    {
+      "Type": "Breakfast",
+      "Price": 300
+    },
+    {
+      "Type": "Lunch",
+      "Price": 400
+    },
+    {
+      "Type": "Dinner",
+      "Price": 500
+    },
+    null
+  ]
+}

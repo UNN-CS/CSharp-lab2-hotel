@@ -1,0 +1,32 @@
+{
+  "nomera": [
+    {
+      "Type": "Эконом",
+      "Price": 500
+    },
+    {
+      "Type": "Люкс",
+      "Price": 700
+    },
+    {
+      "Type": "СУПЕР_ЛЮКС",
+      "Price": 1100
+    },
+    null
+  ],
+  "uslug": [
+    {
+      "Type": "wi-fi",
+      "Price": 150
+    },
+    {
+      "Type": "Beer",
+      "Price": 350
+    },
+    {
+      "Type": "Breakfast",
+      "Price": 200
+    },
+    null
+  ]
+} 

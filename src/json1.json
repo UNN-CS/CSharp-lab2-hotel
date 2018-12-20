@@ -1,0 +1,17 @@
+﻿{
+  "Service":
+  [
+    {
+      "name": "Wi-Fi",
+      "price": "300"
+    },
+    {
+      "name": "SPA",
+      "price": "3000"
+    },
+    {
+      "name": "Washing",
+      "price": "100"
+    }
+  ]
+}

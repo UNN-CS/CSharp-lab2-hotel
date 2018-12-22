@@ -1,0 +1,18 @@
+﻿{
+  "Service":
+  [
+    {
+      "name": "Dinner",
+      "price": "300"
+    },
+    {
+      "name": "Wi-fi",
+      "price": "1000"
+    },
+    {
+      "name": "Alcohol",
+      "price": "500"
+    }
+  ]
+}
+

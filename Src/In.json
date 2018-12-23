@@ -1,0 +1,55 @@
+{
+  "numbers": [
+    {
+      "Type": "Econom",
+      "Price": 5000
+    },
+    {
+      "Type": "Standard",
+      "Price": 10000
+    },
+    {
+      "Type": "VIP",
+      "Price": 15000
+    },
+    {
+      "Type": "Royal Lux",
+      "Price": 25000
+    },
+    null
+  ],
+
+  "services": [
+    {
+      "Type": "Breakfast",
+      "Price": 300
+    },
+    {
+      "Type": "Dinner",
+      "Price": 500
+    },
+    {
+      "Type": "Supper",
+      "Price": 350
+    },
+    {
+      "Type": "Table tennis",
+      "Price": 500
+    },
+    {
+      "Type": "Access to the gym",
+      "Price": 1500
+    },
+    {
+      "Type": "Personal driver",
+      "Price": 5000
+    },
+    {
+      "Type": "Entertaining area",
+      "Price": 2500
+    },
+    null
+  ]
+
+}
+
